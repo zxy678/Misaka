@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'HYTangMeiRen 55W';
+    src: url('HYTangMeiRen-55W.eot');
+    src: url('HYTangMeiRen-55W.eot?#iefix') format('embedded-opentype'),
+        url('HYTangMeiRen-55W.woff2') format('woff2'),
+        url('HYTangMeiRen-55W.woff') format('woff'),
+        url('HYTangMeiRen-55W.ttf') format('truetype'),
+        url('HYTangMeiRen-55W.svg#HYTangMeiRen-55W') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
